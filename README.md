@@ -1,4 +1,4 @@
-# Velora - README
+# Veldora - README
 
 ## Siapa yang bikin
 - **Author:** rillToMe
